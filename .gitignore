@@ -43,3 +43,6 @@ ClientBin/
 
 # Visual Micro Arduino IDE
 __vm/
+
+# Visual Studio Code
+.vscode/
